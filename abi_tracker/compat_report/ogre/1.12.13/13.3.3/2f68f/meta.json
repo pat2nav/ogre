@@ -1,0 +1,11 @@
+{
+  "Affected": "68.4",
+  "Added": 18,
+  "Removed": 258,
+  "TotalProblems": 459,
+  "Source_Affected": "50.1",
+  "Source_TotalProblems": "332",
+  "Source_ReportPath": "compat_report/ogre/1.12.13/13.3.3/2f68f/src_compat_report.html",
+  "Object1": "lib/libOgreRTShaderSystem.so.1.12.13",
+  "Object2": "lib/libOgreRTShaderSystem.so.13.3"
+}

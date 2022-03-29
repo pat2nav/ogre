@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<rss version='2.0'>
+
+<channel>
+<title>ABI changes review for OGRE</title>
+<link>https://abi-laboratory.pro/tracker/timeline/ogre</link>
+<description>Binary compatibility analysis reports for OGRE</description>
+    <item>
+        <title>OGRE 13.3.3</title>
+        <link>https://abi-laboratory.pro/tracker/timeline/ogre</link>
+        <description>Binary compatibility: 41.09%, 3308 problems, changed SONAME, added 254 symbols, removed 1237 symbols. Source compatibility: 51.91%, 2499 problems.</description>
+        <pubDate>Sat, 26 Mar 2022 17:40:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>OGRE 1.12.13</title>
+        <link>https://abi-laboratory.pro/tracker/timeline/ogre</link>
+        <description>Binary compatibility: 50.96%, 1186 problems, changed SONAME, added 1164 symbols, removed 945 symbols. Source compatibility: 68.42%, 557 problems.</description>
+        <pubDate>Wed, 04 Aug 2021 18:33:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>OGRE 1.11.6</title>
+        <link>https://abi-laboratory.pro/tracker/timeline/ogre</link>
+        <description>Binary compatibility: 37.52%, 3010 problems, changed SONAME, added 806 symbols, removed 1284 symbols. Source compatibility: 57.59%, 1877 problems.</description>
+        <pubDate>Wed, 24 Apr 2019 16:21:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>OGRE 1.10.12</title>
+        <link>https://abi-laboratory.pro/tracker/timeline/ogre</link>
+        <description>Binary compatibility: 40.08%, 1981 problems, changed SONAME, added 3 objects, added 744 symbols, removed 676 symbols. Source compatibility: 70.26%, 968 problems.</description>
+        <pubDate>Mon, 23 Apr 2018 23:12:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>OGRE 1.9.1</title>
+        <link>https://abi-laboratory.pro/tracker/timeline/ogre</link>
+        <description>Binary compatibility: 38.75%, 1294 problems, changed SONAME, added 2 objects, added 532 symbols, removed 604 symbols. Source compatibility: 61.29%, 624 problems.</description>
+        <pubDate>Tue, 09 Feb 2016 19:18:00 +0000</pubDate>
+    </item>
+</channel>
+
+</rss>
